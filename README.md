@@ -1,15 +1,13 @@
-<h1 align="center">Hi :beaming_face_with_smiling_eyes:, I'm Narek</h1>
+<h1 align="center">Hi 😁, I'm Narek</h1>
 <h3 align="center">A passionate back developer from Armenia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphonnse&label=Profile%20views&color=0e75b6&style=flat" alt="alphonnse" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alphonnse" alt="alphonnse" /></a> </p>
 
-- 🔭 I’m currently working on **cloud storage**
+- 💻 I’m currently working on **cloud storage**
 
-- 🌱 I’m currently learning **GO**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Alphonnse](https://github.com/Alphonnse)
+- 📚 I’m currently learning **GO**
 
 - 📫 How to reach me **nderzyan@gmail.com**
 
