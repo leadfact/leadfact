@@ -1,7 +1,5 @@
-<h1 align="center">Hi 😁, I'm Narek</h1>
+ <h1 align="center">Hi 😁, I'm Narek</h1>
 <h3 align="center">A passionate back developer from Armenia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alphonnse" alt="alphonnse" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alphonnse" alt="alphonnse" /></a> </p>
 
