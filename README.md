@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Narek</h1>
+<h1 align="center">Hi :beaming_face_with_smiling_eyes:, I'm Narek</h1>
 <h3 align="center">A passionate back developer from Armenia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphonnse&label=Profile%20views&color=0e75b6&style=flat" alt="alphonnse" /> </p>
