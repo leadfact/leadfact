@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alphonnse" alt="alphonnse" /></a> </p>
 
-- 💻 I’m currently working on **cloud storage**
+- 💻 I’m currently working on **xkcd client and cloud storage**
 
 - 📚 I’m currently learning **GO**
 
